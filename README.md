@@ -1,4 +1,4 @@
-### Hi there 👋
+###  ⚡ Hi there 👋
 
 <!--
 **PiRobotRaspberrys/PiRobotRaspberrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# “One language sets you in a corridor for life. Two languages open every door along the way.” – Frank Smith
